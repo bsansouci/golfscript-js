@@ -1,2 +1,2 @@
-#Under Construction
-__please do not use__
+# golfscript-js
+_GolfScript interpreter in JS_
